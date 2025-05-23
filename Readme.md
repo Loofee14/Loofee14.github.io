@@ -1,4 +1,12 @@
 <!DOCTYPE html>
+.Header, .header, .pagehead, .repohead {
+  display: none !important;
+}
+
+body {
+  padding-top: 0 !important;
+  margin-top: 0 !important;
+
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
